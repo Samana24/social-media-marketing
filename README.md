@@ -1,5 +1,5 @@
 # social-media-marketing
-Details about social media marketing</b>
+Details about social media marketing</br>
 Introduction
 In today’s digital world, social media has become an integral part of daily life, connecting billions of people worldwide.​
 
