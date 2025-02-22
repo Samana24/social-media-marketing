@@ -1,16 +1,16 @@
 # social-media-marketing
 Details about social media marketing</br>
-Introduction
+Introduction</br>
 In today’s digital world, social media has become an integral part of daily life, connecting billions of people worldwide.​
 
 Social media marketing leverages platforms like Facebook, Instagram, and Twitter to promote products, services, and brands through engaging content such as posts, images, and videos.​
 
-This marketing approach allows businesses to interact directly with their audience, build brand loyalty, and gain valuable insights from consumer feedback. With data-driven strategies, targeted advertising, and analytics, companies can optimize their campaigns for maximum impact and return on investment (ROI).​
-Research and Findings​
+This marketing approach allows businesses to interact directly with their audience, build brand loyalty, and gain valuable insights from consumer feedback. With data-driven strategies, targeted advertising, and analytics, companies can optimize their campaigns for maximum impact and return on investment (ROI).​</br>
+Research and Findings​</br>
 Social Media Marketing is Growing Rapidly​
 🌍 4.95 billion people use social media worldwide (Source: Data portal 2024)​
-💰 Social media ad spending will reach $219.8 billion in 2025 (Statista)​
-📊 Which Platforms Work Best?​
+💰 Social media ad spending will reach $219.8 billion in 2025 (Statista)​</br>
+📊 Which Platforms Work Best?​</br>
 Instagram & TikTok – Best for engagement and influencer marketing​
 Facebook – Strong for ads and community building​
 LinkedIn – Best for B2B marketing and professionals​​
