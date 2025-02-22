@@ -17,7 +17,7 @@ LinkedIn – Best for B2B marketing and professionals​​
 📈 <b>Impact on Consumer Behavior​</b>
 80% of users prefer buying from brands they follow on social media​
 Video content gets 1200% more shares than text & images</br>​
-Opportunities of Social Media Marketing​<b></br>
+<b>Opportunities of Social Media Marketing​</b></br>
 🚀 1. Expanding Market Reach​
 Social media marketing allows businesses to reach a vast audience, including international markets, without the need for physical expansion. This provides companies with opportunities to grow beyond their local customer base.​
 🎯 2. Cost-Effective Marketing​
